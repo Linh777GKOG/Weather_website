@@ -122,3 +122,15 @@ body {
   border-radius: 10px;
   background: rgba(0, 0, 0, 0.2);
 }
+
+.weather-forecast .weather-forecast-item .day {
+  padding: 5px 15px;
+  background: #3c3c44;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.weather-forecast .weather-forecast-item .temp {
+  font-weight: 100;
+  font-size: 12px;
+}
